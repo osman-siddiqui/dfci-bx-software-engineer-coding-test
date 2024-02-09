@@ -1,4 +1,4 @@
-# DFCI-BX Software Engineer Coding Test
+# BX Software Engineer Coding Test
 
 
 ## Task 1: 
